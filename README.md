@@ -11,7 +11,6 @@ Analise dos dados abertos baseado no SIFAMA - Autos de infração de trânsito 2
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 
 
 # Projeto (API) 
