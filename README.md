@@ -68,6 +68,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Vizualização Power Bi](https://sway.cloud.microsoft/KhgAxYDQD2aBQZMe?ref=Link)(https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532/ReportSection?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&openReportSource=SubscribeOthers&experience=power-bi)
+[![Vizualização Power Bi](<iframe width="760px" height="500px" src="https://sway.cloud.microsoft/s/KhgAxYDQD2aBQZMe/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>)()
 
 
