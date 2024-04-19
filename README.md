@@ -16,8 +16,8 @@ Analise dos dados abertos baseado no SIFAMA - Autos de infração de trânsito 2
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team Member  | Bianca Trevisan            |        
-| Team Member  | Mayla de Paula             |    
+| Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
+| Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo visualizar os dados abertos, visando:
