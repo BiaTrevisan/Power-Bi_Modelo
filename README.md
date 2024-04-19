@@ -68,6 +68,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Vizualização Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532/ReportSection?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&openReportSource=SubscribeOthers&experience=power-bi)
+[![Vizualização Power Bi] (https://app.powerbi.com/home?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&openReportSource=SubscribeOthers&experience=power-bi)(https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532/ReportSection?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&openReportSource=SubscribeOthers&experience=power-bi)
 
 
