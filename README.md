@@ -68,6 +68,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Power Bi](https://fatecspgov-my.sharepoint.com/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Attachments/dashboard%20Mayla%20e%20Bianca%20-%20(P%C3%A1gina%201).png?web=1)]
+[![Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532/ReportSection?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&openReportSource=SubscribeOthers&experience=power-bi)
 
 
