@@ -8,8 +8,6 @@ Analise dos dados abertos baseado no SIFAMA - Autos de infração de trânsito 2
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 
 
@@ -41,7 +39,7 @@ Este projeto tem como objetivo visualizar os dados abertos, visando:
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 18/04/2024 | concluido| Planejamento do deshbord | 
-|00 | 18/04/2024 | concluido| [Vizualização Power Bi](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprints | 18/04/2024 | concluido| [Vizualização Power Bi](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Apresentação|  19/04/2024| em progresso | Conclusão | 
 
 
@@ -56,18 +54,6 @@ Requisitos funcionais
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Power BI / github
-  
-# Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
-
-
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
 ## Sprint 1. Concepção
