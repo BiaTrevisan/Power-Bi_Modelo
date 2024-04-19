@@ -68,6 +68,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Vizualização Power Bi](https://sway.cloud.microsoft/s/KhgAxYDQD2aBQZMe/embed)
+[![Power Bi](https://sway.cloud.microsoft/s/KhgAxYDQD2aBQZMe/embed)]
 
 
