@@ -39,7 +39,7 @@ Este projeto tem como objetivo visualizar os dados abertos, visando:
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 18/04/2024 | concluido| Planejamento do deshbord | 
-|Sprints | 18/04/2024 | concluido| [Vizualização Power Bi](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprints | 18/04/2024 | concluido| [Vizualização Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) | 
 |Apresentação|  19/04/2024| em progresso | Conclusão | 
 
 
@@ -68,6 +68,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Apresentação Power Bi](https://app.powerbi.com/groups/f9bf3989-05b5-4441-b480-2913f93c7b2f/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&openReportSource=SubscribeOthers&experience=power-bi)]
+[![Apresentação Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 
