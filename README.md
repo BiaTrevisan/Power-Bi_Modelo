@@ -38,7 +38,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 18/04/2024 | concluido| Planejamento do deshbord | 
 |Sprints | 18/04/2024 | concluido| [Vizualização Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) | 
-|Apresentação|  19/04/2024| em progresso | Conclusão | 
+|Apresentação|  25/04/2024| em progresso | Conclusão | 
 
 
 # Requisitos
