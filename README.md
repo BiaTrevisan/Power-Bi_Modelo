@@ -44,14 +44,14 @@ Sprint | Previsão | Status| Histórico|
 # Requisitos
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+- Conteúdo da apresentação
+- Power BI / github
+
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Power BI / github
+- Arquivos CSV
+- Indicadores Excel
 
 
 ## Sprint 1. Concepção
