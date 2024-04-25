@@ -4,14 +4,12 @@ Analise dos dados abertos baseado no SIFAMA - Autos de infração de trânsito 2
 
 # Índice
 
-* [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 
 
-# Projeto (API) 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
