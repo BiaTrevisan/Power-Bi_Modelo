@@ -57,8 +57,10 @@ Requisitos não funcionais
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
+![image](https://github.com/BiaTrevisan/Power-Bi_Modelo/assets/163362315/6c540338-c9ea-4c37-ace6-7cb0c1a400df)
 
- [![Vizualização](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brq.com%2Fiba%2Fpower-apps%2F&psig=AOvVaw2RX_5f9sgcmbmuu1Cvb1uu&ust=1716597029641000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjgyLWEpYYDFQAAAAAdAAAAABAE)
- [Vizualização Power Apps](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
+ 
+![image](https://github.com/BiaTrevisan/Power-Bi_Modelo/assets/163362315/a24ded30-11ec-4793-9b68-ab9e74cb4f18)
+[Vizualização Power Apps](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 
