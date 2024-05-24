@@ -66,6 +66,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Apresentação Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
+[![Apresentação Power Bi](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/dcf47b5a-fa0b-41a8-84be-7aa6275807e0?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=sharebutton&sourcetime=1716514291782)
 
 
