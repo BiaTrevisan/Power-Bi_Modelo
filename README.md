@@ -7,7 +7,7 @@ Analise dos dados abertos baseado no SIFAMA - Autos de infração de trânsito 2
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Apresentação](#Apresentação)
-* [Funcionalidades e registros (vídeos e apresnetações) ](#uncionalidades-e-registros-(vídeos-e-apresnetações)-)
+* [Funcionalidades e registros (vídeos e apresentações) ](#uncionalidades-e-registros-(vídeos-e-apresentações)-)
 
 
 
