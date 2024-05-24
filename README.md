@@ -19,46 +19,38 @@ Analise dos dados abertos baseado no SIFAMA - Autos de infração de trânsito 2
 
 # Objetivo do Projeto
 Este projeto tem como objetivo visualizar os dados abertos, visando:
-* Uma analise de dados atraves do Power Bi;
+* Uma analise de dados atraves de um app criado a partir do Power Apps;
 * Tendo no minimo 3 vizualizações;
 * Aprendizagem;
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Power Bi
+ > Power Apps
  > Github
   
  ### Tecnologias da Informação
  > ANTT; arquivos csv.
 
-# Sprints
+# Apresentação
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 18/04/2024 | concluido| Planejamento do deshbord | 
-|Sprints | 18/04/2024 | concluido| [Vizualização Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) | 
-|Apresentação|  25/04/2024| em progresso | Conclusão | 
+|Fonte|Link Produto|
+|------|--------|
+| App Criado|[Vizualização App Criado](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)| 
 
 
 # Requisitos
 
 Requisitos funcionais 
 - Conteúdo da apresentação
-- Power BI / github
-
+- Power Apps / github
+- Indicadores Excel
 
   
 Requisitos não funcionais
-- Arquivos CSV
-- Indicadores Excel
+- Informações grandes
+- Arquivo bagunçado
 
-
-## Sprint 1. Concepção
-- [x] Defição do template;
-- [x] Identifique os elementos principais;
-- [x] Preparação da análise;
-- [x] Estruturação no github;
 
 # Funcionalidades e registros da apresentações
 
@@ -66,6 +58,6 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
-[![Apresentação Power Bi](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
+ [![Vizualização](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brq.com%2Fiba%2Fpower-apps%2F&psig=AOvVaw2RX_5f9sgcmbmuu1Cvb1uu&ust=1716597029641000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjgyLWEpYYDFQAAAAAdAAAAABAE)[Vizualização Power Apps](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 
