@@ -58,6 +58,7 @@ Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 
- [![Vizualização](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brq.com%2Fiba%2Fpower-apps%2F&psig=AOvVaw2RX_5f9sgcmbmuu1Cvb1uu&ust=1716597029641000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjgyLWEpYYDFQAAAAAdAAAAABAE)[Vizualização Power Apps](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
+ [![Vizualização](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brq.com%2Fiba%2Fpower-apps%2F&psig=AOvVaw2RX_5f9sgcmbmuu1Cvb1uu&ust=1716597029641000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjgyLWEpYYDFQAAAAAdAAAAABAE)
+ [Vizualização Power Apps](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
 
