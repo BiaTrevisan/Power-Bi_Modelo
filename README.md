@@ -57,6 +57,6 @@ Requisitos não funcionais
 Apresentação das funcionalidades
  
 ![image](https://github.com/BiaTrevisan/Power-Bi_Modelo/assets/163362315/a24ded30-11ec-4793-9b68-ab9e74cb4f18)
-[Vizualização Power Apps](https://app.powerbi.com/groups/me/reports/b6d71034-1832-4d92-b332-96bea850b532?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
+[Vizualização Power Apps](https://teams.microsoft.com/l/message/19:30e10291-6aeb-443b-81d4-c7326c2dc116_52c48198-b603-436d-846d-59950431ed26@unq.gbl.spaces/1716513660584?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 
